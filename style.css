@@ -1,4 +1,20 @@
 
 .title{
     text-align: center;
+    font-family: 'Philosopher', sans-serif;
+}
+.descr{
+    padding: 8px 18px 8px 18px;
+    font-size: 18px;
+    font-family: 'Merriweather', serif;
+}
+.code__php{
+    margin: 10px 8px 10px 8px;
+    border: 1px solid #000080;
+    border-radius: 9px;
+    padding: 20px 8px 20px 18px;
+    text-align: center;
+}
+p{
+    padding-left: 18px;
 }
